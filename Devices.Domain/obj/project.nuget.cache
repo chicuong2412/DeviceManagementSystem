@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4FenMz4Qydk=",
+  "dgSpecHash": "Nog2GIThS/0=",
   "success": true,
-  "projectFilePath": "D:\\Intern\\DeviceManagementSystem\\Devices.Domain\\Devices.Domain.csproj",
+  "projectFilePath": "D:\\Intern\\Git\\DeviceManagementSystem\\Devices.Domain\\Devices.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

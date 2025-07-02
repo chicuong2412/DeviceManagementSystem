@@ -964,11 +964,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Intern\\DeviceManagementSystem\\Devices.Domain\\Devices.Domain.csproj",
+      "projectUniqueName": "D:\\Intern\\Git\\DeviceManagementSystem\\Devices.Domain\\Devices.Domain.csproj",
       "projectName": "Devices.Domain",
-      "projectPath": "D:\\Intern\\DeviceManagementSystem\\Devices.Domain\\Devices.Domain.csproj",
+      "projectPath": "D:\\Intern\\Git\\DeviceManagementSystem\\Devices.Domain\\Devices.Domain.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Intern\\DeviceManagementSystem\\Devices.Domain\\obj\\",
+      "outputPath": "D:\\Intern\\Git\\DeviceManagementSystem\\Devices.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
